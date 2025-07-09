@@ -1,4 +1,4 @@
-class CustomIterator:
+class MyIterator:
     def __init__(self, data):
         self.data = data
         self.index = 0
