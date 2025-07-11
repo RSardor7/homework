@@ -1,0 +1,12 @@
+Funksiya: add
+Parametrlar: (3, 5), {}
+Natija: 8
+------------------------------
+Funksiya: greeting
+Parametrlar: ('Sardorbek',), {}
+Natija: Salom, Sardorbek!
+------------------------------
+Parameters: (3, 5), {}
+Result: 8
+Parameters: ('Sardorbek',), {}
+Result: Salom, Sardorbek!
